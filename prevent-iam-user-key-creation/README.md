@@ -1,0 +1,1 @@
+This SCP restricts IAM principals from creating new IAM users or IAM Access Keys in an AWS account with an exception for a specified Administrator IAM role.
