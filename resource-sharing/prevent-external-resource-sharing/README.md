@@ -1,0 +1,1 @@
+This SCP prevents users or roles in any affected account from creating Resource Access Shares using RAM that are shared with external principals outside the organization

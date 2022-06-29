@@ -1,0 +1,1 @@
+Only allow a permitted set of resources to be shared with external entities outside of the POL AWS organisation.
